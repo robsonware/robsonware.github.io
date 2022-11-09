@@ -9,6 +9,7 @@ body{
     font-family: 'Exo', sans-serif;
 }
 
+p { text-align: center; color: #aaa }
 
 .context {
     width: 100%;
